@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm study from "programmers.co.kr" categorized by levels.
+Algorithm study categorized by test platform and levels.
